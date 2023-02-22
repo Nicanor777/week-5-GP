@@ -18,6 +18,8 @@ It was developed using JavaScript and MongoDB.
 For any support concerning source code and request to collaborate, contact us via: dmuchoki@safaricom.co.ke
 ## Github Pages
 The site is live at: https://github.com/Nicanor777/week-5-GP.git
+## Postman Collection
+Postman Collection: https://api.postman.com/collections/16729711-3dc24939-8b2c-4667-9a0e-a1347806965d?access_key=PMAT-01GSSJMKAD3F4PA6QAMY9BY7CH
 ### License
 *This project uses MIT license.*
 Copyright (c) 2022 **Diana Muchoki**
